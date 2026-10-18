@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "034256176c3ca4d015c615d5",
+  "owner": "qhwchdra",
+  "repo": "page-fb532da852e43333a09704f7",
+  "title": "地瓜云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "fb532da852e43333a09704f7",
+      "a": "地瓜云",
+      "b": "",
+      "entity": "地瓜云",
+      "brand": "地瓜云",
+      "separator": "",
+      "path": "index.html",
+      "hash": "be3659e77b9578c598162765c381f8130b752cbf585b03d94c9e53abfa4d2efe",
+      "content": {
+        "keyword1": "地瓜云",
+        "keyword2": "",
+        "primary_entity": "地瓜云",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "地瓜云以专栏式说明解释套餐选择、客户端入口与常见问题，帮助读者在下单前阅读配置、有效期与设备边界。",
+          "AI_DESCRIPTION": "地瓜云以专栏式说明解释套餐选择、客户端入口与常见问题，帮助读者在下单前阅读配置、有效期与设备边界。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\nhtml{scroll-padding-bottom:5.5rem}\nbody{margin:0;background-color:#edf1f7;color:#171b21;font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;line-height:1.68}\n*,*::before,*::after{box-sizing:border-box}\nmain{width:100%;max-width:920px;margin:0 auto;padding:2rem 1.1rem 7.5rem}\na{color:#5c1ed3}\na:hover,a:focus-visible{background:#7b2ff7;color:#fff;text-decoration:none}\n.bottom-nav{position:fixed;bottom:0;left:0;right:0;z-index:30;display:flex;overflow-x:auto;white-space:nowrap;background:#fff;border-top:2px solid #7b2ff7;border-left:1px solid #c9d0dc;border-right:1px solid #c9d0dc;box-shadow:0 -10px 30px rgba(23,27,33,.08)}\n.bottom-nav a{flex:0 0 auto;min-width:78px;padding:.9rem .75rem;text-decoration:none;color:#1b2028;font-size:.95rem;text-align:center;border-right:1px solid #c9d0dc}\n.bottom-nav a:last-child{border-right:0}\n.hero{padding:1rem 0 2.25rem;border-bottom:1px solid #cfd6e0}\n.eyebrow{display:inline-block;font-size:.88rem;letter-spacing:.14em;color:#6c21c9;font-weight:700}\nh1{margin:.75rem 0 1rem;font-size:clamp(2.1rem,7.4vw,3.95rem);line-height:1.06;letter-spacing:-.035em;font-weight:850}\n.lead{max-width:51rem;font-size:clamp(1.03rem,2.3vw,1.2rem);color:#47505d;margin:0 0 1rem}\n.timeline{list-style:none;margin:2.4rem 0 0;padding:0;position:relative}\n.timeline::before{content:\"\";position:absolute;left:.56rem;top:.6rem;bottom:.7rem;width:3px;background:#b7bfcf}\n.timeline li{position:relative;margin:0 0 1.65rem;padding-left:2.45rem}\n.timeline li::before{content:\"\";position:absolute;left:.18rem;top:.42rem;width:1.05rem;height:1.05rem;border-radius:50%;background:#7b2ff7;box-shadow:0 0 0 5px #edf1f7}\n.timeline h3{margin:0 0 .38rem;font-size:1.16rem;line-height:1.25}\n.timeline p{margin:0;color:#39424f}\nsection{margin:0 0 3.1rem}\n.section-heading{margin:0 0 .65rem;font-size:clamp(1.6rem,4.6vw,2.25rem);line-height:1.15;letter-spacing:-.025em}\n.section-intro{color:#47505d;margin:.7rem 0 1.3rem}\n.cards{display:grid;gap:1rem;grid-template-columns:1fr}\n@media(min-width:760px){.cards{grid-template-columns:1fr 1fr}}\n.card{background:#fff;border:1px solid #cfd6e0;border-left:6px solid #7b2ff7;padding:1.15rem 1.15rem 1.2rem;box-shadow:0 1px 2px rgba(23,27,33,.05)}\n.card h3{margin:0 0 .5rem;font-size:1.15rem;line-height:1.25}\n.card p{margin:0;color:#39424f}\n.steps{counter-reset:step;list-style:none;margin:1.2rem 0 0;padding:0;display:grid;gap:1rem}\n.steps li{counter-increment:step;position:relative;background:#fff;border:1px solid #cfd6e0;border-left:6px solid #7b2ff7;padding:1.05rem 1.05rem 1.05rem 3.4rem}\n.steps li::before{content:counter(step);position:absolute;left:1.15rem;top:1.05rem;width:1.45rem;height:1.45rem;display:grid;place-items:center;background:#7b2ff7;color:#fff;border-radius:4px;font-size:.9rem;font-weight:800}\n.steps strong{display:block;margin-bottom:.28rem}\n.plan-list{display:grid;gap:1.25rem;margin-top:1.25rem}\n.plan{background:#fff;border:1px solid #cfd6e0;border-left:12px solid #7b2ff7;padding:1.45rem 1.25rem;box-shadow:0 1px 2px rgba(23,27,33,.05)}\n.plan.featured{background:#fbf9ff;border-left-color:#b58cff}\n.plan-head{display:flex;align-items:flex-start;justify-content:space-between;gap:1rem;flex-wrap:wrap;margin-bottom:.8rem}\n.plan h3{margin:0;font-size:clamp(1.35rem,4vw,1.8rem);line-height:1.1}\n.plan-tag{display:inline-block;background:#7b2ff7;color:#fff;padding:.22rem .6rem;border-radius:999px;font-size:.82rem;font-weight:700}\n.price{display:flex;align-items:baseline;gap:.55rem;flex-wrap:wrap;margin:0 0 .75rem}\n.price strong{font-size:1.7rem;color:#151a22}\n.price span{font-size:.98rem;color:#5d6470}\n.feature-list{list-style:none;margin:.85rem 0 0;padding:0}\n.feature-list li{position:relative;padding-left:1.55rem;margin:.42rem 0;color:#2f3640}\n.feature-list li::before{content:\"›\";position:absolute;left:0;top:.05rem;color:#7b2ff7;font-weight:900}\n.plan-note{color:#47505d;font-size:.96rem;background:#fff;border:1px solid #cfd6e0;border-left:6px solid #7b2ff7;padding:1rem}\n.client-grid{display:grid;gap:1rem;margin-top:1.1rem}\n.faq-list{display:grid;gap:.9rem}\ndetails{background:#fff;border:1px solid #cfd6e0;border-left:6px solid #7b2ff7}\nsummary{cursor:pointer;list-style:none;padding:1.05rem 1.1rem;font-weight:750;color:#1b2028;border-bottom:1px solid transparent}\ndetails[open] summary{border-bottom-color:#cfd6e0}\nsummary::-webkit-details-marker{display:none}\nsummary::before{content:\"+\";display:inline-block;width:1.25rem;color:#7b2ff7;font-weight:900}\ndetails[open] summary::before{content:\"−\"}\n.faq-answer{padding:1rem 1.1rem 1.15rem;color:#39424f}\n.faq-answer p{margin:0 0 .7rem}\n.faq-answer p:last-child{margin-bottom:0}\n.notice{background:#fff;border:1px solid #cfd6e0;border-left:6px solid #7b2ff7;padding:1.05rem;color:#39424f;margin:1.1rem 0 0}\nfooter{margin-top:3rem;padding:1.8rem 0 0;border-top:1px solid #cfd6e0;color:#5d6470;font-size:.94rem}\n</style><nav class=\"bottom-nav\" aria-label=\"页面文字导航\">\n<a href=\"#opening\">开篇</a>\n<a href=\"#reading\">阅读</a>\n<a href=\"#plans\">方案</a>\n<a href=\"#clients\">入口</a>\n<a href=\"#faq\">问答</a>\n</nav>\n<main>\n<section id=\"opening\" class=\"hero\">\n<span class=\"eyebrow\">选择笔记</span>\n<h1>地瓜云：在下单前，先把它当成一篇可阅读的选择说明</h1>\n<p class=\"lead\">我很少把网络服务页只看成一张价格表。它更像一份说明：谁适合用它，哪些场景需要额外确认，哪些参数只是参考样本，哪些条件必须回到订单页与公告页逐一核对。下面用一条纵向时间线，把阅读地瓜云的顺序拆开。</p>\n<ol class=\"timeline\">\n<li>\n<h3>先确认用途，而不是先挑档位</h3>\n<p>如果只是网页浏览、邮件收发、文档协作与轻度视频，基础配置可能已经足够。只有在设备数量变多、家庭成员共享、或需要在不同终端之间频繁切换时，更高档位才有比较意义。</p>\n</li>\n<li>\n<h3>再核对设备边界</h3>\n<p>很多误解来自把“同时在线”理解成“所有可注册账号”。阅读页面时，最好把设备数量、账号归属、共享规则、是否需要分别登录分开列出，再对照套餐里的数字。</p>\n</li>\n<li>\n<h3>接着比较计费周期</h3>\n<p>月付适合先观察自己真实用量的情况，年付更适合已经确定会长期使用的读者。页面展示的年付格式只是方便比较平均支出，真正是否划算仍取决于有效期、续费方式与实际使用频率。</p>\n</li>\n<li>\n<h3>最后确认入口与说明</h3>\n<p>套餐只是起点。客户端从哪里获取、线路分类如何解释、订单说明是否清楚、咨询入口是否存在，这些现实路径往往比价格更影响后续体验。没有核验的下载地址，不应被包装成事实。</p>\n</li>\n</ol>\n</section>\n\n<section id=\"reading\">\n<h2 class=\"section-heading\">使用说明：从阅读到确认的四张卡片</h2>\n<p class=\"section-intro\">把购买行为写成清单，可以减少误读。阅读地瓜云时，可以先按下面四张卡片整理信息，再决定是否下单。</p>\n<div class=\"cards\">\n<article class=\"card\">\n<h3>看清参考样本与正式承诺的区别</h3>\n<p>页面里的价格、流量额度、设备数量和线路分类，可能只是参考格式。真正下单前，建议以结算说明、商品公告和订单记录为准，避免把页面样本当作固定承诺。</p>\n</article>\n<article class=\"card\">\n<h3>把设备数量写在纸上</h3>\n<p>先列出自己有几台设备，再区分手机、电脑、平板、电视、路由器终端是否同时需要接入。共享给家人或同事时，还要考虑使用习惯和登录方式。</p>\n</article>\n<article class=\"card\">\n<h3>先确认入口，再决定档位</h3>\n<p>即使套餐名称看起来合适，如果常见终端入口不明确、版本说明不连续、咨询渠道不可见，也应该先停下来。一个清晰的获取说明，比夸张的配置数字更重要。</p>\n</article>\n<article class=\"card\">\n<h3>保留关键条款的阅读痕迹</h3>\n<p>付款前可以把计费周期、有效期、设备限制、续费提示和退订规则做文字摘录。若页面说明前后不一致，优先相信正式订单页与可追溯公告。</p>\n</article>\n</div>\n<ol class=\"steps\">\n<li><strong>第一步：写清楚使用场景</strong>网页浏览、视频观看、会议沟通、文档同步和文件下载，对设备数与流量消耗的影响不同。先问自己每周用几次，比先问哪个名字更气派更重要。</li>\n<li><strong>第二步：列出终端清单</strong>把需要连接的手机、电脑、平板、电视盒子或路由器全部列出来。不要只记数量，也要确认是否允许跨地区同时使用。</li>\n<li><strong>第三步：核对年付与月付的真实差值</strong>年付平均到每月可能更便宜，但如果试用期不确定，月付可以减少判断压力。需要关注有效期、续费价格、是否自动顺延以及服务变更说明。</li>\n<li><strong>第四步：确认获取路径是否可解释</strong>正规流程通常能说明从哪里安装、不同终端如何对应、出现配置问题时查看哪份说明。若只有模糊入口，就应继续核实。</li>\n</ol>\n</section>\n\n<section id=\"plans\">\n<h2 class=\"section-heading\">参考套餐：三档差异单列展开</h2>\n<p class=\"section-intro\">以下套餐内容用于呈现不同档位之间的差异，方便阅读比较。价格、流量额度、设备数量、线路分类和服务入口可能调整；实际下单时，请以购买页、商品说明、结算公告与订单记录为准。本页不替代交易条款。</p>\n<div class=\"plan-list\">\n<article class=\"plan\">\n<div class=\"plan-head\">\n<h3>基础版</h3>\n</div>\n<p class=\"price\"><strong>¥15/月</strong><span>按年付参考：¥150/年</span></p>\n<p>适合先观察自己真实用量、不想一开始承担长周期成本的读者。基础档的价值不在数字最大，而在把常见轻使用场景讲清楚。</p>\n<ul class=\"feature-list\">\n<li>每月 100GB 流量额度，作为参考配置呈现</li>\n<li>通常可安排约 3 台设备同时在线</li>\n<li>面向网页浏览、邮件、文档与轻度视频场景</li>\n<li>提供常见线路分类，便于按用途阅读</li>\n<li>适合从月付开始试用，也可查看年付格式</li>\n</ul>\n</article>\n\n<article class=\"plan featured\">\n<div class=\"plan-head\">\n<h3>旗舰版</h3>\n<span class=\"plan-tag\">常见选择</span>\n</div>\n<p class=\"price\"><strong>¥35/月</strong><span>按年付参考：¥350/年</span></p>\n<p>这是页面中更常被展开阅读的档位。本页把它作为常见选择展示，并不表示对所有人的适用性，而是方便读者理解中间档如何区分轻量与多人场景。</p>\n<ul class=\"feature-list\">\n<li>每月 300GB 流量额度，作为参考配置呈现</li>\n<li>通常可安排约 5 台设备同时在线</li>\n<li>适合视频观看、会议沟通、远程办公等多场景混合</li>\n<li>线路分类更丰富，可按普通浏览或实时互动场景区分</li>\n<li>若说明中提供工单或优先处理入口，下单前仍需核对服务方式</li>\n</ul>\n</article>\n\n<article class=\"plan\">\n<div class=\"plan-head\">\n<h3>团队版</h3>\n</div>\n<p class=\"price\"><strong>¥85/月</strong><span>按年付参考：¥850/年</span></p>\n<p>面向家庭、小团队、工作室或多人共享场景。多人使用时的重点不只是流量总池，还包括成员如何管理、权限如何分配、账单如何统一，以及设备上限是否真的满足协作。</p>\n<ul class=\"feature-list\">\n<li>每月 1000GB 流量额度，作为参考配置呈现</li>\n<li>通常可安排约 20 台设备同时在线</li>\n<li>适合家庭、小团队或小型工作室共同使用</li>\n<li>可关注成员管理、权限分配与统一计费方式</li>\n<li>若涉及自定义路由或特殊策略，需要逐项核对说明与适用设备</li>\n</ul>\n</article>\n</div>\n<p class=\"notice\">阅读提醒：套餐差异应当被理解为使用边界差异，而不是承诺体验结果。若你看到某个档位特别标注，也请先确认其标注含义，例如是配置更高、设备更多，还是仅表示更适合多人。</p>\n</section>\n\n<section id=\"clients\">\n<h2 class=\"section-heading\">客户端与获取方式：没有核验链接，就不伪装成入口</h2>\n<p class=\"section-intro\">很多服务页会把客户端入口做成一连串按钮。本文档目前没有得到可靠下载地址，因此不展示未经核验的安装链接。更好的做法，是先确认自己需要的终端类型，再到有公告、有订单记录或有版本说明的位置查找。</p>\n<div class=\"client-grid\">\n<article class=\"card\">\n<h3>桌面设备</h3>\n<p>未核验到可直接公开引用的桌面安装包地址。请优先查看品牌说明页、订单记录或可追溯公告；若页面要求从陌生位置安装，应先确认文件名、版本说明和发布者信息。</p>\n</article>\n<article class=\"card\">\n<h3>移动设备</h3>\n<p>未核验到可直接公开引用的移动商店链接。建议确认品牌全称、开发商名称和应用图标，并避免点击来路不明的仿制页面。安装后先核对是否需要单独登录，再按说明添加配置。</p>\n</article>\n<article class=\"card\">\n<h3>路由器与其他终端</h3>\n<p>若涉及路由器、电视、机顶盒或其他终端，通常需要额外的固件版本或配置说明。本文不给出未经确认的版本号、刷写方式或下载入口，以免误导。</p>\n</article>\n</div>\n<p class=\"notice\">获取路径的判断方式：能解释清楚“在哪个页面找到入口、对应哪个系统、版本如何更新、遇到问题看哪份说明”的流程，通常比只放一个孤立下载按钮更可靠。</p>\n</section>\n\n<section id=\"faq\">\n<h2 class=\"section-heading\">常见问题</h2>\n<p class=\"section-intro\">以下问答采用折叠结构，适合在下单前逐项核对。每个问题都尽量把事实边界写清楚，而不是替页面替订单做承诺。</p>\n<div class=\"faq-list\">\n<details>\n<summary>为什么页面把套餐写成参考配置，而不是直接写死成事实？</summary>\n<div class=\"faq-answer\">\n<p>网络服务页面的价格、流量额度、设备上限和线路说明可能随着产品调整而变化。本文档没有完整核验材料时，采用“参考配置”的写法，是为了避免把不确定信息包装成固定承诺。</p>\n<p>阅读时可以把套餐当作比较框架：先看自己是否符合使用场景，再去结算页核对数字和条款。</p>\n</div>\n</details>\n\n<details>\n<summary>基础版、旗舰版和团队版应该怎么选？</summary>\n<div class=\"faq-answer\">\n<p>先不要从名称判断，而从设备和使用强度判断。只有一两台设备、用途以网页与轻度视频为主时，基础版更适合作为起点。若视频、会议、多终端切换频繁，旗舰版更容易容纳混合场景。若需要家庭或小团队共同使用，团队版应重点看成员管理、设备上限和统一计费。</p>\n</div>\n</details>\n\n<details>\n<summary>年付一定会比月付更划算吗？</summary>\n<div class=\"faq-answer\">\n<p>不一定。年付的平均每月数字可能更低，但前提是你真的会持续使用，并且续费、有效期、价格变更规则都符合你的预期。若你还不确定自己是否长期使用，月付可以减少一次性判断压力。</p>\n<p>付款前建议核对有效期开始方式、续费提示、自动顺延条件和可查询的订单说明。</p>\n</div>\n</details>\n\n<details>\n<summary>客户端在哪里下载？</summary>\n<div class=\"faq-answer\">\n<p>本文档目前没有可靠下载链接，因此不提供未经核验的安装入口。更稳妥的查找顺序是：先查看订单或控制台是否有版本说明，再检查对应系统应用商店，最后确认品牌全称和开发者信息。</p>\n<p>如果出现多个相似名称页面，不要凭图标或广告位选择，应以可追溯公告、订单说明和版本信息为准。</p>\n</div>\n</details>\n\n<details>\n<summary>套餐里的设备数可以和家人或同事共享吗？</summary>\n<div class=\"faq-answer\">\n<p>能否共享，取决于产品条款里的账号归属、同时在线数量、跨地区使用限制以及是否允许多人持有配置。页面展示的设备数只是一个起点，真正的边界要回到说明中核对。</p>\n<p>如果用于团队或家庭共享，建议先约定谁负责账号、谁负责设备、出现问题时谁联系咨询入口。</p>\n</div>\n</details>\n\n<details>\n<summary>如果发现页面信息不够透明，应该怎么办？</summary>\n<div class=\"faq-answer\">\n<p>可以暂停购买，先索要或查找更完整的说明：商品条款、计费规则、有效期、设备限制、续费方式、版本更新说明和可追溯公告。没有这些信息时，不建议仅凭价格或名称做决定。</p>\n<p>一个成熟的服务页面，应该允许你把疑问逐条核对，而不是只给出一组看似热闹的参数。</p>\n</div>\n</details>\n\n<details>\n<summary>这份说明页是否提供交易、退款或固定价格承诺？</summary>\n<div class=\"faq-answer\">\n<p>不提供。本文档是独立阅读说明页，用于梳理套餐、入口与常见问题。它不承诺价格实时有效，不替代订单条款，也不为未核验的下载入口背书。</p>\n<p>付款前请以结算页和正式条款为最终依据。</p>\n</div>\n</details>\n</div>\n</section>\n\n<footer>\n<p>本文档是独立阅读版页面，用于梳理套餐、入口与常见问题。它不承诺价格实时有效，也不提供未经核验的下载链接。</p>\n</footer>\n</main>",
+          "hash": "58023c54b3315e530fdc6d61b9dddf84328d2fb55d773243cd9f61832fa2634a",
+          "seo": {
+            "title": "地瓜云 | 套餐选择、客户端入口与常见问题",
+            "keywords": "地瓜云,套餐说明,客户端入口,常见问题,网络服务阅读,购买确认",
+            "description": "地瓜云以专栏式说明解释套餐选择、客户端入口与常见问题，帮助读者在下单前阅读配置、有效期与设备边界。"
+          },
+          "provider": "grok",
+          "model": "Qwen3.8-Flash-Next",
+          "design": {
+            "no": "4053",
+            "hero": "6 纵向时间线引入",
+            "palette": "4 浅灰配电光紫",
+            "nav": "4 底部固定式文字导航",
+            "card": "4 左侧色条标记",
+            "plans_view": "4 单列大卡依次堆叠",
+            "faq_view": "4 details 折叠",
+            "tone": "4 专栏作者式叙述",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "towziu.cn",
+    "host": "p-5f297a46d5.towziu.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "4856e723348300e233aa5911fe0772632748e7ffdebff80f0311ac7c2f0fdd1c",
+    "sitemap.xml": "9245076565f5356c1ee85291e8ce1dba8afd038a89db324e0eac25459b79ce97",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "33cb1ba864992117b436089356f744afcd0d74a21bc57d3f4e9c8d2156aab7cb",
+    "robots.txt": "c175e900d208c56985a65e7df2dd01404316b296429a7b827688f177bd2b5551",
+    "862a6883ca386e6704467caaf3fb0f06.txt": "bef9f98a3ca41b7d97b13e536bf4ee1532a42ddd442bc3541839a4d322b10870"
+  },
+  "revision": "8bf09d32e46fd2f3f2188c321a0b6fb7e7c49419709669265f6ee32d1451f57d"
+}
